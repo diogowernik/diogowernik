@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @diogowernik
 - 👀 I’m interested in django, python, react and investments
-- 🌱 I’m currently learning something everyday
+- 🌱 I’m currently learning something new everyday
 - 📫 How to reach me 
 
 https://www.linkedin.com/in/diogo-wernik-b688801b4/
