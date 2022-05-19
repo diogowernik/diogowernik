@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @diogowernik
-- 👀 I’m interested in django, python, react and investments
+- 👀 I’m interested in ruby on rails, django, python, react and investments
 - 🌱 I’m currently learning something new everyday
 - 📫 How to reach me 
 
