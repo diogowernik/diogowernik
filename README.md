@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning something new everyday
 - 📫 How to reach me 
 
-https://www.linkedin.com/in/diogo-wernik-b688801b4/
+https://www.linkedin.com/in/diogo-wernik
 
 <!---
 diogowernik/diogowernik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
